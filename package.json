@@ -1,0 +1,22 @@
+{
+  "name": "placementapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/borudeakshay/placementapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/borudeakshay/placementapp/issues"
+  },
+  "homepage": "https://github.com/borudeakshay/placementapp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
